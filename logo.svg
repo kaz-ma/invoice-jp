@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="見積書・納品書・請求書">
+  <rect width="512" height="512" fill="#2f6f45"/>
+  <!-- ¥ の字。16pxでも読めるよう線幅48px（9.4%）で引いている -->
+  <g stroke="#e8f3ec" stroke-width="48" stroke-linecap="round" fill="none">
+    <path d="M152 130 L256 258 L360 130"/>
+    <path d="M256 258 L256 392"/>
+    <path d="M160 288 L352 288"/>
+    <path d="M160 348 L352 348"/>
+  </g>
+</svg>
