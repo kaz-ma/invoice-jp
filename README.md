@@ -4,6 +4,8 @@
 
 👉 **[kaz-ma.github.io/invoice-jp/](https://kaz-ma.github.io/invoice-jp/)**
 
+![見積書・納品書・請求書の画面。インボイスの記載事項6項目のチェックと、A4の印刷プレビュー](screenshot.png)
+
 ---
 
 ## 法律要件は一次ソースで確定させています
